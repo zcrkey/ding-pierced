@@ -1,0 +1,2 @@
+F:\zcrkey\ding-pierced\windows_64
+ding -config=ding.cfg -subdomain=zcrkey 8028
